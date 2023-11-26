@@ -5,8 +5,6 @@
 
 A Full-stack web application built using React and Spring Boot for managing student records efficiently. The Student Management System allows users to add, update, and delete student information, along with their respective departments. This system ensures seamless communication between the frontend and backend, providing a user-friendly interface to manage student details.
 
-![Spring-Boot-React](https://github.com/LuisSalas94/Full-Stack-React-Spring-Boot-Student-Management-System/assets/57297709/c653dede-2d3b-4301-a074-48a9daf201b9)
-
 
 ## Tech Stack 🖥
 
@@ -69,13 +67,6 @@ $ git clone https://github.com/LuisSalas94/Student-Management-System
 - Open your web browser and enter http://localhost:3000 to access the React frontend and interact with the application.
 
 With these steps, you'll have the necessary environment set up to run the Spring Boot backend and the React frontend of the application locally.
-
-## Author 👤
-
-- GitHub: [@LuisSalas94](https://github.com/LuisSalas94)
-- LinkedIn: [Fernando Salas](https://www.linkedin.com/in/luisfernandosalasgave/)
-- Medium: [Fernando Salas](https://medium.com/@luisfernandosalasg)
-- Portfolio: [Link](https://fernando-salas-portfolio.netlify.app/)
 
 ## Contributing 🤝
 

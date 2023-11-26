@@ -48,7 +48,7 @@ Before running this application, ensure that you have the following prerequisite
 
 First clone this repository.
 ```bash
-$ git clone https://github.com/LuisSalas94/Student-Management-System
+$ git clone https://github.com/abid-anjum/Full-Stack-React-Spring-Boot-Student-Management-System.git
 ```
 **Set Up the MySQL Database:**
 
